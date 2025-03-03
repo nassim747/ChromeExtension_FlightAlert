@@ -1,0 +1,1 @@
+// Background service worker for Flight Alert extension 
